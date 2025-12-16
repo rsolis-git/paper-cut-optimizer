@@ -1,0 +1,15 @@
+{
+  "files": {
+    "main.css": "/paper-cut-optimizer/static/css/main.e6c13ad2.css",
+    "main.js": "/paper-cut-optimizer/static/js/main.50bdec30.js",
+    "static/js/453.26df17a6.chunk.js": "/paper-cut-optimizer/static/js/453.26df17a6.chunk.js",
+    "index.html": "/paper-cut-optimizer/index.html",
+    "main.e6c13ad2.css.map": "/paper-cut-optimizer/static/css/main.e6c13ad2.css.map",
+    "main.50bdec30.js.map": "/paper-cut-optimizer/static/js/main.50bdec30.js.map",
+    "453.26df17a6.chunk.js.map": "/paper-cut-optimizer/static/js/453.26df17a6.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.e6c13ad2.css",
+    "static/js/main.50bdec30.js"
+  ]
+}
